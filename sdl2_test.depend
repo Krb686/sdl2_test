@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1447593577 source:/home/kevin/gitrepos/sdl2_test/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	<SDL2/SDL.h>
+	"include/res_path.h"
+
+1447593577 /home/kevin/gitrepos/sdl2_test/include/res_path.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+

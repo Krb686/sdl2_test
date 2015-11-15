@@ -11,3 +11,10 @@
 	<string>
 	<SDL2/SDL.h>
 
+1447594044 source:/home/kevin/gitrepos/sdl2_test/src/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	<SDL2/SDL.h>
+	"../include/res_path.h"
+

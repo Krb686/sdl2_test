@@ -42,7 +42,7 @@
 		</Linker>
 		<Unit filename="cb.bmp" />
 		<Unit filename="include/res_path.h" />
-		<Unit filename="main.cpp" />
+		<Unit filename="src/main.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

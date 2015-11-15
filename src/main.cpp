@@ -6,7 +6,7 @@
 
 #include <iostream>
 #include <SDL2/SDL.h>
-#include "include/res_path.h"
+#include "../include/res_path.h"
 
 int main ( int argc, char** argv )
 {
